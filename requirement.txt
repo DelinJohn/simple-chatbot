@@ -1,0 +1,12 @@
+streamlit
+langchain
+faiss-cpu
+langchain_groq
+langchain_ollama
+pydantic
+langchain-community
+langchain-core
+langchain-nvidia-ai-endpoints
+python-dotenv
+openmeteo-requests
+requests-cache retry-requests numpy pandas
